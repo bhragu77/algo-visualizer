@@ -62,8 +62,8 @@
 >(Student, C.S.E,chandigarh university)
 >
 >Follow me on :
->[LinkedIn]() |
->[Github]()
+>[LinkedIn](https://www.linkedin.com/in/bhragu-gour-bhragu77/) |
+>[Github](https://github.com/bhragu77)
 >
 >If you like this repository dont forget to give a star &#128077;
 
